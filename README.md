@@ -1,1 +1,2 @@
-To je testi repository
+Miha Kokalj
+Vpisna številka: 23221209
